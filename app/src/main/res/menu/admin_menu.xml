@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFF">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        android:titleTextColor="@android:color/white"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_manage"
+        android:title="Manage Candidates"
+        android:titleTextColor="@android:color/white"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_voters"
+        android:title="Manage Voters"
+        android:titleTextColor="@android:color/white"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_results"
+        android:title="Results"
+        android:titleTextColor="@android:color/white"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="Admin Profile"
+        android:titleTextColor="@android:color/white"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        android:titleTextColor="@android:color/white"
+        app:showAsAction="never" />
+
+</menu>

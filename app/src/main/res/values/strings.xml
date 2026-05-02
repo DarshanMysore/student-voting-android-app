@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentVotingApp</string>
+    <string name="open">Open Menu</string>
+    <string name="close">Close Menu</string>
+</resources>

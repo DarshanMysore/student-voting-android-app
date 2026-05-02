@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg9">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Title -->
+        <TextView
+            android:text="MITM Student Voting System"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_marginBottom="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!-- Subtitle -->
+        <TextView
+            android:text="Admin Login"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:layout_marginBottom="24dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!-- Profile -->
+        <ImageView
+            android:src="@drawable/nobg3"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_marginBottom="30dp"
+            android:contentDescription="Admin Profile"/>
+
+        <!-- Username -->
+        <EditText
+            android:id="@+id/etAdminUser"
+            android:hint="Username"
+            android:padding="14dp"
+            android:textColor="#000"
+            android:textColorHint="#777"
+            android:background="@android:drawable/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <!-- Password -->
+        <EditText
+            android:id="@+id/etAdminPass"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:padding="14dp"
+            android:textColor="#000"
+            android:textColorHint="#777"
+            android:layout_marginTop="14dp"
+            android:background="@android:drawable/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <!-- Login Button -->
+        <Button
+            android:id="@+id/btnAdminLogin"
+            android:text="Login"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="@color/cardview_shadow_start_color"
+            android:layout_marginTop="24dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</ScrollView>

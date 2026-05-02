@@ -26,13 +26,6 @@ A secure and user-friendly Android application that enables students to vote dig
 
 ---
 
-## 📸 Screenshots
-![Home](home.png)  
-![Results](bar_chart.png)  
-![Account](account.png)  
-
----
-
 ## ⚙️ Setup Instructions
 1. Clone the repository  
 2. Open in Android Studio  

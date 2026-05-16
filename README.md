@@ -1,10 +1,10 @@
-# 📱 Student Voting Android App
+ 📱 Student Voting Android App
 
 A secure and user-friendly Android application that enables students to vote digitally. The system ensures a smooth voting experience with authentication and provides an admin panel to monitor results.
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 - User registration and login  
 - Secure voting system (one user, one vote)  
 - Real-time result calculation  
@@ -13,7 +13,7 @@ A secure and user-friendly Android application that enables students to vote dig
 
 ---
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 - Java / Kotlin  
 - Android Studio  
 - SQLite / Firebase  
@@ -21,12 +21,12 @@ A secure and user-friendly Android application that enables students to vote dig
 
 ---
 
-## 📥 Download APK
+ 📥 Download APK
 [Download App](https://drive.google.com/file/d/1KFDB_ucZg68pJ8lt5EsaGoxgA3T-U2La/view?usp=sharing)
 
 ---
 
-## ⚙️ Setup Instructions
+ ⚙️ Setup Instructions
 1. Clone the repository  
 2. Open in Android Studio  
 3. Sync Gradle  
@@ -34,13 +34,13 @@ A secure and user-friendly Android application that enables students to vote dig
 
 ---
 
-## 📌 Highlights
+ 📌 Highlights
 - Built for real-world student elections  
 - Focus on simplicity and reliability  
 - Demonstrates Android development and logic handling  
 
 ---
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 Darshan P  
 MCA Student | Aspiring Full Stack Developer

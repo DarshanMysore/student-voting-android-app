@@ -41,6 +41,7 @@ HIGHLIGHTS
 
 ---
 
-AUTHOR 
+AUTHOR                                                                                         
+
 Darshan P  
 MCA Student | Aspiring Full Stack Developer
